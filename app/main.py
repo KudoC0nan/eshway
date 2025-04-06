@@ -23,7 +23,6 @@ fake_users_db = {
     }
 }
 
-sessions = {}
 documents = {"session": {}, "database": {}}
 
 # Models
